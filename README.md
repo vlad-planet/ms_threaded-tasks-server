@@ -1,5 +1,4 @@
-# ms_threaded_tasks_server
- microservices
+microservices
 
 ## Реализация многопоточного сервера на PHP
 
